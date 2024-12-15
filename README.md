@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Bohdan
-- 👀 I’m interested in chess engine programming, iOS, Swift and Haskell. 
+- 🍎 Writing iOS code for living
+- 👀 My main interests are Cryptography and Functional Programming. 
 - 🚀 Currently working at @[Spotify](https://github.com/spotify) in London
 
 <!---
