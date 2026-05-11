@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bohdan
-- 🍎 Writing iOS code for living
+- 🍎 iOS Engineer
 - 👀 My main interests are Cryptography and Functional Programming. 
 - 🚀 Currently working at @[Spotify](https://github.com/spotify) in London
 
